@@ -27,11 +27,3 @@ Afterwards we run the tensorboard command below to view results:
 %load_ext tensorboard
 %tensorboard --logdir '/content/ReportGenerationMeetsGraph14labels_v2/workspace/biview/logs'
 
-@misc{zhang2020radiology,
-      title={When Radiology Report Generation Meets Knowledge Graph}, 
-      author={Yixiao Zhang and Xiaosong Wang and Ziyue Xu and Qihang Yu and Alan Yuille and Daguang Xu},
-      year={2020},
-      eprint={2002.08277},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
