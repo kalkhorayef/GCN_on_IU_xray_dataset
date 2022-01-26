@@ -5,7 +5,7 @@ The work is an adaptation from the code base of the AAAI 2020 paper "When Report
 See paper at: https://arxiv.org/abs/2002.08277
 and https://paperswithcode.com/paper/when-radiology-report-generation-meets
 
-The Indiana University X-ray dataset is used to run the model, a download link for the preprocessed version is available in the colab notebook.
+The Indiana University X-ray dataset is used to test the model, a download link for the preprocessed version is available in the colab notebook.
 
 In the colab notebook "IU Knowledge graph v1.7" run the first four cells to download the editted codebase and the IU dataset.
 If you want to skip the first section of training and start with an already trained gcn classifier, use the codebase from the cell:
