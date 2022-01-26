@@ -1,6 +1,5 @@
 # Applying GCN-LSTM Model with Knowledge Graph on IU Chest Xray Dataset for Report Generation Task
-
-https://colab.research.google.com/drive/15o7Oo0bZrM0pmkriuotNbymNWs79PhZG?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15o7Oo0bZrM0pmkriuotNbymNWs79PhZG?usp=sharing)
 
 This is for training a preconstructed knowledge graph for a report generation task. 
 The work is an adaptation from the code base of the AAAI 2020 paper "When Report Generation Meets Knowledge Graph".
